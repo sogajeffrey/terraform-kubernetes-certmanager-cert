@@ -1,4 +1,4 @@
-# terraform-kubernetes-manifest-certmanager-cert
+# terraform-kubernetes-certmanager-cert
 Terraform Module that creates a Cert manager certificate CRD 
 
 ## Providers
